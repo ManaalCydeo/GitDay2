@@ -6,4 +6,7 @@ public class HomePage {
     // nav manu
     //having changes
 
+    // more changes made
+    // logo
+
 }
